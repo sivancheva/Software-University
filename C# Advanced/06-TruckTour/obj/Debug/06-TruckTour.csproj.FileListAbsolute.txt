@@ -1,0 +1,7 @@
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\06-TruckTour\bin\Debug\06-TruckTour.exe.config
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\06-TruckTour\bin\Debug\06-TruckTour.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\06-TruckTour\bin\Debug\06-TruckTour.pdb
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\06-TruckTour\obj\Debug\06-TruckTour.csprojResolveAssemblyReference.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\06-TruckTour\obj\Debug\06-TruckTour.csproj.CoreCompileInputs.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\06-TruckTour\obj\Debug\06-TruckTour.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\06-TruckTour\obj\Debug\06-TruckTour.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-Spyfer\bin\Debug\03-Spyfer.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-Spyfer\bin\Debug\03-Spyfer.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-Spyfer\bin\Debug\03-Spyfer.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-Spyfer\obj\Debug\03-Spyfer.csprojResolveAssemblyReference.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-Spyfer\obj\Debug\03-Spyfer.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-Spyfer\obj\Debug\03-Spyfer.pdb

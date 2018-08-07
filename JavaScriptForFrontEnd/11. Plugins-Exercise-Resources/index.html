@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JobApplication</title>
+    <!--bootstrap-->
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap-grid.css">
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap-reboot.css">
+    <!--fontAwesome-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--sweet alert-->
+    <link rel="stylesheet" href="bootstrap-sweetalert/dist/sweetalert.css">
+    <!--dropify-->
+    <link rel="stylesheet" href="dropify-master/dist/css/dropify.min.css">
+    <link rel="stylesheet" href="dropify-master/dist/css/demo.css">
+
+    <!--customCss-->
+    <link rel="stylesheet" href="customsCSS.css">
+
+
+</head>
+<body>
+<div class="container w-50 mx-auto">
+    <div class="container bg-info my-5 mb-2">
+        <!--headings-->
+        <h2 class="h2 text-uppercase text-center font-weight-bold text-light pt-4">job application</h2>
+        <h5 class="h5 text-uppercase text-center font-italic  text-light pb-4">we are looking for someone like you!</h5>
+
+        <!--accordeon-->
+        <div class="accordion mb-3" id="accordionExample">
+
+            <!--enter data-->
+            <div class="card mb-1">
+                <div class="card-header bg-info border-light " id="headingOne">
+                    <h5 class="mb-0 ">
+                        <button class="btn btn-link text-light font-weight-bold" type="button" data-toggle="collapse"
+                                data-target="#collapseOne"
+                                aria-expanded="true" aria-controls="collapseOne">
+                            Enter your data
+                        </button>
+                    </h5>
+                </div>
+
+                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
+                     data-parent="#accordionExample">
+                    <div class="card-body">
+                        <form>
+                            <div class="form-group">
+                                <label for="firstName">First Name</label>
+                                <input type="text" class="form-control" id="firstName" placeholder="First Name">
+                            </div>
+                            <div class="form-group">
+                                <label for="lastName">Last Name</label>
+                                <input type="text" class="form-control" id="lastName" placeholder="Last Name">
+                            </div>
+                            <div class="form-group mb-0">
+                                <label for="email">Email address</label>
+                                <input type="email" class="form-control" id="email" aria-describedby="emailInfo"
+                                       placeholder="Enter email">
+                            </div>
+                            <small id="emailInfo" class="form-text text-muted mb-3">
+                                We'll never share your e-mail with anyone else!
+                            </small>
+
+                            <a class="btn btn-block btn-social btn-twitter text-left d-inline mr-2 text-light"
+                               onclick="redirectToTwitter()">
+                                <span class="fa fa-twitter text-light"></span> Sign in with Twitter
+                            </a>
+                            <a class="btn btn-block btn-social btn-google text-left d-inline text-light"
+                               onclick="redirectToGoogle()">
+                                <span class="fa fa-google text-light"></span> Sign in with Twitter
+                            </a>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <!--Social Media-->
+            <div class="card mb-1">
+                <div class="card-header bg-info border-light " id="headingTwo">
+                    <h5 class="mb-0">
+                        <button class="btn btn-link collapsed text-light font-weight-bold " type="button"
+                                data-toggle="collapse"
+                                data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            Social Media Profiles
+                        </button>
+                    </h5>
+                </div>
+                <!--Twitter-->
+                <div id="collapseTwo" class="collapse m-4" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                    <div class="card-body py-1">
+                        <div class="input-group mb-1">
+                            <div class="input-group-prepend">
+                                <span id="twitter" class="input-group-text fa fa-twitter text-light"></span>
+                            </div>
+                            <input type="text" class="form-control" placeholder="Twitter profile">
+                        </div>
+                    </div>
+                    <!--Facebook-->
+                    <div class="card-body py-1">
+                        <div class="input-group mb-1">
+                            <div class="input-group-prepend">
+                                <span id="facebook" class="input-group-text fa fa-facebook text-light"></span>
+                            </div>
+                            <input type="text" class="form-control" placeholder="Facebook profile">
+                        </div>
+                    </div>
+                    <!--Github-->
+                    <div class="card-body py-1">
+                        <div class="input-group mb-1">
+                            <div class="input-group-prepend">
+                                <span id="github" class="input-group-text fa fa-github text-light"></span>
+                            </div>
+                            <input type="text" class="form-control" placeholder="Github profile">
+                        </div>
+                    </div>
+                    <!--LinkedIn-->
+                    <div class="card-body py-1">
+                        <div class="input-group mb-1">
+                            <div class="input-group-prepend">
+                                <span id="linkedin" class="input-group-text fa fa-linkedin text-light"></span>
+                            </div>
+                            <input type="text" class="form-control" placeholder="Github profile">
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <!--Upload CV-->
+            <div class="card mb-1">
+                <div class="card-header bg-info border-light" id="headingThree">
+                    <h5 class="mb-0">
+                        <button class="btn btn-link collapsed text-light font-weight-bold " type="button"
+                                data-toggle="collapse"
+                                data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            Upload CV
+                        </button>
+                    </h5>
+                </div>
+                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                    <div class="card-body">
+                        <input type="file" class="dropify" data-height="300"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--button submit-->
+        <div class="text-center">
+            <button type="button"
+                    class="reset btn btn-outline-light bg-info mb-3 text-uppercase text-light font-weight-bold"
+                    onclick="submit()">Submit
+            </button>
+        </div>
+    </div>
+</div>
+
+
+<script
+        src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
+<script src="node_modules/bootstrap/dist/js/bootstrap.js"></script>
+<script src="dropify-master/dist/js/dropify.min.js"></script>
+<script src="bootstrap-sweetalert/dist/sweetalert.js"></script>
+<script src="customJS.js"></script>
+</body>
+</html>

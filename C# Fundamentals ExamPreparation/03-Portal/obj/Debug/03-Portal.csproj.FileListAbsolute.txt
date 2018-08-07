@@ -1,0 +1,6 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-Portal\bin\Debug\03-Portal.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-Portal\bin\Debug\03-Portal.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-Portal\bin\Debug\03-Portal.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-Portal\obj\Debug\03-Portal.csprojResolveAssemblyReference.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-Portal\obj\Debug\03-Portal.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-Portal\obj\Debug\03-Portal.pdb

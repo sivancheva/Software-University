@@ -1,0 +1,6 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-SoftUniWaterSupply2\bin\Debug\02-SoftUniWaterSupply2.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-SoftUniWaterSupply2\bin\Debug\02-SoftUniWaterSupply2.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-SoftUniWaterSupply2\bin\Debug\02-SoftUniWaterSupply2.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-SoftUniWaterSupply2\obj\Debug\02-SoftUniWaterSupply2.csprojResolveAssemblyReference.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-SoftUniWaterSupply2\obj\Debug\02-SoftUniWaterSupply2.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-SoftUniWaterSupply2\obj\Debug\02-SoftUniWaterSupply2.pdb

@@ -1,0 +1,7 @@
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\03.MaximumElement\bin\Debug\03.MaximumElement.exe.config
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\03.MaximumElement\bin\Debug\03.MaximumElement.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\03.MaximumElement\bin\Debug\03.MaximumElement.pdb
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\03.MaximumElement\obj\Debug\03.MaximumElement.csprojResolveAssemblyReference.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\03.MaximumElement\obj\Debug\03.MaximumElement.csproj.CoreCompileInputs.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\03.MaximumElement\obj\Debug\03.MaximumElement.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\03.MaximumElement\obj\Debug\03.MaximumElement.pdb

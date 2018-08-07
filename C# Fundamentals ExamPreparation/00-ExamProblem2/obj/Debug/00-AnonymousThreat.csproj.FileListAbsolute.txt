@@ -1,0 +1,6 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\00-ExamProblem2\bin\Debug\00-ExamProblem2.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\00-ExamProblem2\bin\Debug\00-ExamProblem2.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\00-ExamProblem2\bin\Debug\00-ExamProblem2.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\00-ExamProblem2\obj\Debug\00-AnonymousThreat.csprojResolveAssemblyReference.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\00-ExamProblem2\obj\Debug\00-ExamProblem2.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\00-ExamProblem2\obj\Debug\00-ExamProblem2.pdb

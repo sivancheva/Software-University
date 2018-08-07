@@ -1,0 +1,7 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\Trainegram2\bin\Debug\Trainegram2.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\Trainegram2\bin\Debug\Trainegram2.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\Trainegram2\bin\Debug\Trainegram2.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\Trainegram2\obj\Debug\Trainegram2.csprojResolveAssemblyReference.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\Trainegram2\obj\Debug\Trainegram2.csproj.CoreCompileInputs.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\Trainegram2\obj\Debug\Trainegram2.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\Trainegram2\obj\Debug\Trainegram2.pdb

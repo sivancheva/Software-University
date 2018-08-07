@@ -1,0 +1,11 @@
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.0\03.OldestFamilyMember.deps.json
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.0\03.OldestFamilyMember.runtimeconfig.json
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.0\03.OldestFamilyMember.runtimeconfig.dev.json
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.0\03.OldestFamilyMember.dll
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.0\03.OldestFamilyMember.pdb
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.csprojResolveAssemblyReference.cache
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.AssemblyInfo.cs
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.dll
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.pdb

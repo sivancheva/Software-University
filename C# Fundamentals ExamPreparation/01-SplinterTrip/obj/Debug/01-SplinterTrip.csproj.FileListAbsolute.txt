@@ -1,0 +1,6 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SplinterTrip\bin\Debug\01-SplinterTrip.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SplinterTrip\bin\Debug\01-SplinterTrip.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SplinterTrip\bin\Debug\01-SplinterTrip.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SplinterTrip\obj\Debug\01-SplinterTrip.csprojResolveAssemblyReference.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SplinterTrip\obj\Debug\01-SplinterTrip.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SplinterTrip\obj\Debug\01-SplinterTrip.pdb

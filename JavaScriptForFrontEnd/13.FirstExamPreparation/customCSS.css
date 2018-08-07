@@ -1,0 +1,9 @@
+#line, #thirdLine{
+    border-bottom: 2px solid #FFC107;
+    width: 100%;
+}
+
+#secondLine{
+    border-bottom: 2px solid #FFC107;
+    width: 60%;
+}

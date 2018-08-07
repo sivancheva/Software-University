@@ -1,0 +1,11 @@
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Encapsulation\Encpsulation\Encpsulation\bin\Debug\netcoreapp2.0\01.Class Box.deps.json
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Encapsulation\Encpsulation\Encpsulation\bin\Debug\netcoreapp2.0\01.Class Box.runtimeconfig.json
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Encapsulation\Encpsulation\Encpsulation\bin\Debug\netcoreapp2.0\01.Class Box.runtimeconfig.dev.json
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Encapsulation\Encpsulation\Encpsulation\bin\Debug\netcoreapp2.0\01.Class Box.dll
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Encapsulation\Encpsulation\Encpsulation\bin\Debug\netcoreapp2.0\01.Class Box.pdb
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Encapsulation\Encpsulation\Encpsulation\obj\Debug\netcoreapp2.0\01.Class Box.csprojResolveAssemblyReference.cache
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Encapsulation\Encpsulation\Encpsulation\obj\Debug\netcoreapp2.0\01.Class Box.csproj.CoreCompileInputs.cache
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Encapsulation\Encpsulation\Encpsulation\obj\Debug\netcoreapp2.0\01.Class Box.AssemblyInfoInputs.cache
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Encapsulation\Encpsulation\Encpsulation\obj\Debug\netcoreapp2.0\01.Class Box.AssemblyInfo.cs
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Encapsulation\Encpsulation\Encpsulation\obj\Debug\netcoreapp2.0\01.Class Box.dll
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Encapsulation\Encpsulation\Encpsulation\obj\Debug\netcoreapp2.0\01.Class Box.pdb

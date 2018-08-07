@@ -1,0 +1,7 @@
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\07.LegoBlocks\bin\Debug\07.LegoBlocks.exe.config
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\07.LegoBlocks\bin\Debug\07.LegoBlocks.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\07.LegoBlocks\bin\Debug\07.LegoBlocks.pdb
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\07.LegoBlocks\obj\Debug\07.LegoBlocks.csprojResolveAssemblyReference.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\07.LegoBlocks\obj\Debug\07.LegoBlocks.csproj.CoreCompileInputs.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\07.LegoBlocks\obj\Debug\07.LegoBlocks.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\07.LegoBlocks\obj\Debug\07.LegoBlocks.pdb

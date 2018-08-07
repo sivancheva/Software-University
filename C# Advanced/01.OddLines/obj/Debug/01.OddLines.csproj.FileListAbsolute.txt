@@ -1,0 +1,7 @@
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\01.OddLines\bin\Debug\01.OddLines.exe.config
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\01.OddLines\bin\Debug\01.OddLines.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\01.OddLines\bin\Debug\01.OddLines.pdb
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\01.OddLines\obj\Debug\01.OddLines.csprojResolveAssemblyReference.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\01.OddLines\obj\Debug\01.OddLines.csproj.CoreCompileInputs.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\01.OddLines\obj\Debug\01.OddLines.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\01.OddLines\obj\Debug\01.OddLines.pdb

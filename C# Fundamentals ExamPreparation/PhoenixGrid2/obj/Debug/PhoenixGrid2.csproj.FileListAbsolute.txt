@@ -1,0 +1,7 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\PhoenixGrid2\bin\Debug\PhoenixGrid2.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\PhoenixGrid2\bin\Debug\PhoenixGrid2.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\PhoenixGrid2\bin\Debug\PhoenixGrid2.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\PhoenixGrid2\obj\Debug\PhoenixGrid2.csprojResolveAssemblyReference.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\PhoenixGrid2\obj\Debug\PhoenixGrid2.csproj.CoreCompileInputs.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\PhoenixGrid2\obj\Debug\PhoenixGrid2.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\PhoenixGrid2\obj\Debug\PhoenixGrid2.pdb

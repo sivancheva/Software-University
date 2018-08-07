@@ -1,0 +1,7 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\00-Snowwhite\bin\Debug\00-Snowwhite.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\00-Snowwhite\bin\Debug\00-Snowwhite.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\00-Snowwhite\bin\Debug\00-Snowwhite.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\00-Snowwhite\obj\Debug\00-Snowwhite.csprojResolveAssemblyReference.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\00-Snowwhite\obj\Debug\00-Snowwhite.csproj.CoreCompileInputs.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\00-Snowwhite\obj\Debug\00-Snowwhite.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\00-Snowwhite\obj\Debug\00-Snowwhite.pdb

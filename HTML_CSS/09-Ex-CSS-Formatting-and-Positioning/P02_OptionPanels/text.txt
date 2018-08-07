@@ -1,0 +1,26 @@
+Option Panels
+
+
+
+.section-options h4{
+    text-transform: uppercase;
+    padding: 20px 20px;
+    background: white;
+    text-align: left;
+}
+
+.section-options p{
+    padding: 20px 20px;
+    background: white;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+body, html {
+    height: 100%;
+    font-family: "Lato", sans-serif;
+}
+
+#indexHeading, #componentsHeading, #blogHeading {
+    font-family: "Catamaran", sans-serif;
+    font-weight: 800;
+}
+#indexSecondHeading,#componentsSecondHeading, #blogSecondHeading{
+    font-family: "Catamaran", sans-serif;
+    font-weight: 400;
+}
+
+.navbar{
+    background-color: #343A40;
+}
+
+.smallerTexts{
+    font-family: "Catamaran", sans-serif;
+    font-weight: 600;
+}
+
+.fixedHeadings{
+    width: 100%;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("../img/bg-1.jpg");
+
+    /* Half height */
+    height: 30%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-thumbnail{
+    vertical-align: middle;
+}
+
+.footer{
+    background-color: #343A40;
+}

@@ -1,0 +1,11 @@
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\07.SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.deps.json
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\07.SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.runtimeconfig.json
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\07.SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.runtimeconfig.dev.json
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\07.SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.dll
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\07.SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.pdb
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.csprojResolveAssemblyReference.cache
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.AssemblyInfo.cs
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.dll
+C:\Users\Ship\source\repos\C# OOP Basics\Defining Classes Exercise\DefiningClassesExercise\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.pdb

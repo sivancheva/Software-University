@@ -1,0 +1,6 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-PokemonEvolution\bin\Debug\04-PokemonEvolution.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-PokemonEvolution\bin\Debug\04-PokemonEvolution.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-PokemonEvolution\bin\Debug\04-PokemonEvolution.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-PokemonEvolution\obj\Debug\04-PokemonEvolution.csprojResolveAssemblyReference.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-PokemonEvolution\obj\Debug\04-PokemonEvolution.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-PokemonEvolution\obj\Debug\04-PokemonEvolution.pdb

@@ -1,0 +1,7 @@
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\01.ActionPrint\bin\Debug\01.ActionPrint.exe.config
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\01.ActionPrint\bin\Debug\01.ActionPrint.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\01.ActionPrint\bin\Debug\01.ActionPrint.pdb
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\01.ActionPrint\obj\Debug\01.ActionPrint.csprojResolveAssemblyReference.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\01.ActionPrint\obj\Debug\01.ActionPrint.csproj.CoreCompileInputs.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\01.ActionPrint\obj\Debug\01.ActionPrint.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\01.ActionPrint\obj\Debug\01.ActionPrint.pdb

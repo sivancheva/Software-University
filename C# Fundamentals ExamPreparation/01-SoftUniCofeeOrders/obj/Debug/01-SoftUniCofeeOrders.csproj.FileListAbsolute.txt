@@ -1,0 +1,6 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SoftUniCofeeOrders\bin\Debug\01-SoftUniCofeeOrders.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SoftUniCofeeOrders\bin\Debug\01-SoftUniCofeeOrders.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SoftUniCofeeOrders\bin\Debug\01-SoftUniCofeeOrders.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SoftUniCofeeOrders\obj\Debug\01-SoftUniCofeeOrders.csproj.CoreCompileInputs.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SoftUniCofeeOrders\obj\Debug\01-SoftUniCofeeOrders.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SoftUniCofeeOrders\obj\Debug\01-SoftUniCofeeOrders.pdb

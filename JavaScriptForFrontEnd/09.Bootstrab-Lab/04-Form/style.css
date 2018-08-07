@@ -1,0 +1,17 @@
+body{
+   background-color: #343A40;
+    margin-top: 20px;
+}
+
+.messageForInvalidMail{
+    background-color: red;
+    width: 95%;
+}
+
+.intersts{
+    font-size: 150%;
+}
+
+#jobOptional{
+    display: inline;
+}

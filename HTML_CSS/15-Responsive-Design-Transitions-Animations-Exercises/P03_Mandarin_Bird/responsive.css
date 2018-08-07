@@ -1,0 +1,58 @@
+@media screen and (max-width: 1200px) {
+
+    body {
+        max-width: 1200px;
+        width: 100%;
+    }
+
+    #wrapper {
+        width: 100%;
+    }
+
+    header {
+        width: 100%;
+    }
+
+    header nav > ul li {
+        width: 20%;
+    }
+
+    main {
+        max-width: 1200px;
+        width: 90%;
+
+    }
+
+    main section {
+        width: 95%;
+        margin: 40px 2.5% 0 2.5%;
+    }
+
+    main > section > div > article > h3 {
+        text-align: left;
+    }
+
+    main > section > div > article > p {
+        text-align: left;
+    }
+
+    main aside {
+        width: 95%;
+        margin: 0px 2.5% 0 2.5%;
+    }
+
+    main > aside > article {
+
+        margin-right: 0;
+    }
+
+    footer {
+        width: 95%;
+        margin-top: 30px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 730px)  and (min-width: 500px) {
+
+}

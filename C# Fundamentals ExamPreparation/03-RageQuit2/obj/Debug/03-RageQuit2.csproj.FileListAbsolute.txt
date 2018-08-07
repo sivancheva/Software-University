@@ -1,0 +1,5 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-RageQuit2\bin\Debug\03-RageQuit2.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-RageQuit2\bin\Debug\03-RageQuit2.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-RageQuit2\bin\Debug\03-RageQuit2.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-RageQuit2\obj\Debug\03-RageQuit2.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-RageQuit2\obj\Debug\03-RageQuit2.pdb

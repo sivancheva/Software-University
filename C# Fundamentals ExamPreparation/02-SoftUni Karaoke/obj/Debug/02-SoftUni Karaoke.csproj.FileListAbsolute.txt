@@ -1,0 +1,6 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-SoftUni Karaoke\bin\Debug\02-SoftUni Karaoke.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-SoftUni Karaoke\bin\Debug\02-SoftUni Karaoke.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-SoftUni Karaoke\bin\Debug\02-SoftUni Karaoke.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-SoftUni Karaoke\obj\Debug\02-SoftUni Karaoke.csprojResolveAssemblyReference.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-SoftUni Karaoke\obj\Debug\02-SoftUni Karaoke.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-SoftUni Karaoke\obj\Debug\02-SoftUni Karaoke.pdb

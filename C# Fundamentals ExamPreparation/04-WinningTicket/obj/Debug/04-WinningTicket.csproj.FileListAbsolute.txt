@@ -1,0 +1,5 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-WinningTicket\bin\Debug\04-WinningTicket.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-WinningTicket\bin\Debug\04-WinningTicket.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-WinningTicket\bin\Debug\04-WinningTicket.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-WinningTicket\obj\Debug\04-WinningTicket.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-WinningTicket\obj\Debug\04-WinningTicket.pdb

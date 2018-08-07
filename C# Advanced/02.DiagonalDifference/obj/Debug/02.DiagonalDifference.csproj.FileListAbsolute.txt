@@ -1,0 +1,7 @@
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\02.DiagonalDifference\bin\Debug\02.DiagonalDifference.exe.config
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\02.DiagonalDifference\bin\Debug\02.DiagonalDifference.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\02.DiagonalDifference\bin\Debug\02.DiagonalDifference.pdb
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\02.DiagonalDifference\obj\Debug\02.DiagonalDifference.csprojResolveAssemblyReference.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\02.DiagonalDifference\obj\Debug\02.DiagonalDifference.csproj.CoreCompileInputs.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\02.DiagonalDifference\obj\Debug\02.DiagonalDifference.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\02.DiagonalDifference\obj\Debug\02.DiagonalDifference.pdb

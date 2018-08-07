@@ -1,0 +1,6 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-RoliTheCoder\bin\Debug\04-RoliTheCoder.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-RoliTheCoder\bin\Debug\04-RoliTheCoder.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-RoliTheCoder\bin\Debug\04-RoliTheCoder.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-RoliTheCoder\obj\Debug\04-RoliTheCoder.csprojResolveAssemblyReference.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-RoliTheCoder\obj\Debug\04-RoliTheCoder.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-RoliTheCoder\obj\Debug\04-RoliTheCoder.pdb

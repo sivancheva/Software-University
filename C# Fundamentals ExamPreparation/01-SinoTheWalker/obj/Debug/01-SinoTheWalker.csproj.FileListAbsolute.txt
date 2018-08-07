@@ -1,0 +1,7 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SinoTheWalker\bin\Debug\01-SinoTheWalker.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SinoTheWalker\bin\Debug\01-SinoTheWalker.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SinoTheWalker\bin\Debug\01-SinoTheWalker.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SinoTheWalker\obj\Debug\01-SinoTheWalker.csprojResolveAssemblyReference.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SinoTheWalker\obj\Debug\01-SinoTheWalker.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SinoTheWalker\obj\Debug\01-SinoTheWalker.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SinoTheWalker\obj\Debug\01-SinoTheWalker.csproj.CoreCompileInputs.cache

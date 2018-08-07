@@ -1,0 +1,7 @@
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\04.MaximalSum\bin\Debug\04.MaximalSum.exe.config
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\04.MaximalSum\bin\Debug\04.MaximalSum.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\04.MaximalSum\bin\Debug\04.MaximalSum.pdb
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\04.MaximalSum\obj\Debug\04.MaximalSum.csproj.CoreCompileInputs.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\04.MaximalSum\obj\Debug\04.MaximalSum.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\04.MaximalSum\obj\Debug\04.MaximalSum.pdb
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\04.MaximalSum\obj\Debug\04.MaximalSum.csprojResolveAssemblyReference.cache

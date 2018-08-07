@@ -1,0 +1,7 @@
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\05.SequenceWithQueue\bin\Debug\05.SequenceWithQueue.exe.config
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\05.SequenceWithQueue\bin\Debug\05.SequenceWithQueue.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\05.SequenceWithQueue\bin\Debug\05.SequenceWithQueue.pdb
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\05.SequenceWithQueue\obj\Debug\05.SequenceWithQueue.csprojResolveAssemblyReference.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\05.SequenceWithQueue\obj\Debug\05.SequenceWithQueue.csproj.CoreCompileInputs.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\05.SequenceWithQueue\obj\Debug\05.SequenceWithQueue.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\05.SequenceWithQueue\obj\Debug\05.SequenceWithQueue.pdb

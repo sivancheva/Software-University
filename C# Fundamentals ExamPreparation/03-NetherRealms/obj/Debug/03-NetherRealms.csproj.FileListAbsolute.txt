@@ -1,0 +1,7 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-NetherRealms\bin\Debug\03-NetherRealms.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-NetherRealms\bin\Debug\03-NetherRealms.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-NetherRealms\bin\Debug\03-NetherRealms.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-NetherRealms\obj\Debug\03-NetherRealms.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-NetherRealms\obj\Debug\03-NetherRealms.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-NetherRealms\obj\Debug\03-NetherRealms.csprojResolveAssemblyReference.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\03-NetherRealms\obj\Debug\03-NetherRealms.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\07.BalancedParentheses\bin\Debug\07.BalancedParentheses.exe.config
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\07.BalancedParentheses\bin\Debug\07.BalancedParentheses.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\07.BalancedParentheses\bin\Debug\07.BalancedParentheses.pdb
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\07.BalancedParentheses\obj\Debug\07.BalancedParentheses.csprojResolveAssemblyReference.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\07.BalancedParentheses\obj\Debug\07.BalancedParentheses.csproj.CoreCompileInputs.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\07.BalancedParentheses\obj\Debug\07.BalancedParentheses.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\07.BalancedParentheses\obj\Debug\07.BalancedParentheses.pdb

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap-grid.css">
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap-reboot.css">
+
+    <link rel="stylesheet" href="customCSS.css">
+
+
+</head>
+<body>
+
+<div class="container-fluid">
+    <div class="row text-center bg-warning ">
+        <div class="col-12 my-2 font-weight-bold h1">Company Codex</div>
+    </div>
+    <div class="row text-center bg-transparent ">
+        <div class="col-12 my-2 font-weight-bold h3">Register Yourself</div>
+    </div>
+    <hr id="line">
+
+    <form class="container mx-auto my-5">
+        <div class="row my-3">
+            <div class="col-3 offset-2">
+                <div class="form-group">
+                    <label for="firstName" class="font-weight-bold">First Name</label>
+                    <input type="text" class="form-control" id="firstName" placeholder="First Name..." required="required">
+                </div>
+            </div>
+            <div class="col-3 offset-2">
+                <div class="form-group">
+                    <label for="lastName" class="font-weight-bold">Last Name</label>
+                    <input type="text" class="form-control" id="lastName" placeholder="Last Name..." required="required">
+                </div>
+            </div>
+        </div>
+
+        <div class="row my-3">
+            <div class="col-3 offset-2">
+                <div class="form-group">
+                    <label for="company" class="font-weight-bold">Company</label>
+                    <input type="text" class="form-control" id="company" placeholder="Company..." required="required">
+                </div>
+            </div>
+            <div class="col-3 offset-2">
+                <div class="form-group">
+                    <label for="branch" class="font-weight-bold">Branch</label>
+                    <input type="text" class="form-control" oninput="myFunction()"id="branch" placeholder="Branch..." required="required">
+                </div>
+            </div>
+        </div>
+
+        <hr id="secondLine" class="mt-5">
+    </form>
+
+    <div class="row text-center bg-transparent ">
+        <div class="col-12 my-2 font-weight-bold h3">Work Email</div>
+    </div>
+    <div class="container w-25">
+        <input id="resultEmail" class="form-control text-center border-top border-left shadow-sm" type="text"
+               placeholder=".@-.com" readonly>
+    </div>
+    <hr id="thirdLine">
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
+<script src="node_modules/bootstrap/dist/js/bootstrap.js"></script>
+
+<script src="customJS.js"></script>
+
+</body>
+</html>

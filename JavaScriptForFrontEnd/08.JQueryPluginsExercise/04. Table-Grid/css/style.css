@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=News+Cycle');
+
+body {
+    font-family: 'News Cycle', sans-serif;
+    border: 2px solid #AAAAAA;
+    border-radius: 10px;
+}
+
+header {
+    text-align: center;
+    margin: 15px;
+}
+
+#myTable > tfoot > tr{
+    background-color: #AAAAAA
+}
+#myTable > thead > tr{
+    background-color: #AAAAAA
+}
+
+#myTable_filter > label > input[type="search"]{
+    margin-bottom: 25px;
+    border-radius: 13px;
+    height: 30px;
+    border: 2px solid #AAAAAA;
+}
+
+.odd td, .even td, .odd, .even {
+    background-color: #F9F9F9;
+}
+
+thead tr {
+
+    text-align: left;
+}

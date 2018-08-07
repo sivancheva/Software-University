@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Lato');
+body{
+    background-color: #24437C;
+    margin: auto;
+    font-family: Lato,  sans-serif;
+    width: 100%;
+    color: white;
+}
+
+.nav-primary{
+    float: right;
+    margin-top: 24px;
+}
+nav ul li{
+    display: inline-block;
+    text-transform: capitalize;
+    padding: 10px;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+nav ul li:hover{
+    background-color: #3DC3F0;
+    border-radius: 5px;
+}
+.nav-brand{
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 21px;
+
+}
+
+.header-title{
+    text-transform: capitalize;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: 100;
+    letter-spacing: 5px;
+}
+.header-subtitle{
+    color: #3DC3F0;
+    font-size: 19px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 100;
+    letter-spacing: 2px;
+    margin: 31px;
+
+}
+#button-container{
+    background-color: #3DC3F0;
+    padding: 15px;
+    margin: auto;
+    width: 84px;
+    border-radius: 10px;
+    margin: auto;
+
+}
+.header-btn {
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.header-services{
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+
+}
+.service{
+    width: 30%;
+    height: 300px;
+    display: inline-block;
+    padding: 10px;
+    vertical-align: top;
+    text-align: left;
+}
+.service:hover{
+    background-color: #3DC3F0;
+    cursor: pointer;
+}
+.service-title{
+    font-weight: 100;
+    letter-spacing: 3px;
+    height: 100px;
+    padding-left: 25px;
+}
+
+ul li article{
+    width: 100%;
+}
+
+.service-intro{
+    font-weight: 100;
+    font-size: 13px;
+}
+
+.service-link{
+    color: white;
+    text-decoration: none;
+    display: table;
+    margin-top: 20px;
+
+
+}

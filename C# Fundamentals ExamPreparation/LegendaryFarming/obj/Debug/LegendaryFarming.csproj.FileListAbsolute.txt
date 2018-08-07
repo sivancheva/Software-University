@@ -1,0 +1,5 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\LegendaryFarming\bin\Debug\LegendaryFarming.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\LegendaryFarming\bin\Debug\LegendaryFarming.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\LegendaryFarming\bin\Debug\LegendaryFarming.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\LegendaryFarming\obj\Debug\LegendaryFarming.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\LegendaryFarming\obj\Debug\LegendaryFarming.pdb

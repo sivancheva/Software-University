@@ -1,0 +1,6 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-WormsWorldParty\bin\Debug\04-WormsWorldParty.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-WormsWorldParty\bin\Debug\04-WormsWorldParty.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-WormsWorldParty\bin\Debug\04-WormsWorldParty.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-WormsWorldParty\obj\Debug\04-WormsWorldParty.csprojResolveAssemblyReference.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-WormsWorldParty\obj\Debug\04-WormsWorldParty.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-WormsWorldParty\obj\Debug\04-WormsWorldParty.pdb

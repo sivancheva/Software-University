@@ -1,0 +1,21 @@
+h1{
+    font-size: 28px;
+}
+
+.author-italic{
+    font-style: italic;
+}
+
+p{
+    font-size: 24px;
+}
+
+body{
+    background-color: #CCC;
+    margin: 0;
+    padding: 0;
+}
+
+section{
+   margin-left: 20px;
+}

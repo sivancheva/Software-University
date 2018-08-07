@@ -1,0 +1,7 @@
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\10.SimpleTextEditor\bin\Debug\10.SimpleTextEditor.exe.config
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\10.SimpleTextEditor\bin\Debug\10.SimpleTextEditor.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\10.SimpleTextEditor\bin\Debug\10.SimpleTextEditor.pdb
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.csprojResolveAssemblyReference.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.csproj.CoreCompileInputs.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.pdb

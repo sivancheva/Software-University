@@ -1,0 +1,6 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-ArrayManipulator2\bin\Debug\02-ArrayManipulator2.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-ArrayManipulator2\bin\Debug\02-ArrayManipulator2.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-ArrayManipulator2\bin\Debug\02-ArrayManipulator2.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-ArrayManipulator2\obj\Debug\02-ArrayManipulator2.csprojResolveAssemblyReference.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-ArrayManipulator2\obj\Debug\02-ArrayManipulator2.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\02-ArrayManipulator2\obj\Debug\02-ArrayManipulator2.pdb

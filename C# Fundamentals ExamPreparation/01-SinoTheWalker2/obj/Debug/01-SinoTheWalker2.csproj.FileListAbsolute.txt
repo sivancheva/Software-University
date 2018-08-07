@@ -1,0 +1,6 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SinoTheWalker2\bin\Debug\01-SinoTheWalker2.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SinoTheWalker2\bin\Debug\01-SinoTheWalker2.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SinoTheWalker2\bin\Debug\01-SinoTheWalker2.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SinoTheWalker2\obj\Debug\01-SinoTheWalker2.csprojResolveAssemblyReference.cache
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SinoTheWalker2\obj\Debug\01-SinoTheWalker2.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\01-SinoTheWalker2\obj\Debug\01-SinoTheWalker2.pdb

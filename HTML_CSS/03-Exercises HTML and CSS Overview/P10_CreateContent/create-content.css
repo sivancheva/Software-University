@@ -1,0 +1,48 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+main{
+    margin: 50px 200px;
+    max-width: 1060px;
+    padding: 0px 10px;
+    font-family: "Lato",sans-serif;
+    color: #234465;;
+}
+h2{
+    color: #234465;
+    margin: 10px;
+    text-align: center ;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+img{
+    float: left;
+    width: 180px;
+    height: 100px;
+    margin: 10px 50px 0px 0;
+
+}
+p{
+    font-size: 16px;
+    color: #333333;
+    margin-bottom:5px ;
+    letter-spacing: 0;
+    width: 800px;
+}
+

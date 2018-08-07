@@ -1,0 +1,11 @@
+H:\05-PRogramirane-SoftUni\C-Sharp-Lekcii\201802-C#OOP\C# OOP Basics\DefiningClassesExercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.deps.json
+H:\05-PRogramirane-SoftUni\C-Sharp-Lekcii\201802-C#OOP\C# OOP Basics\DefiningClassesExercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.runtimeconfig.json
+H:\05-PRogramirane-SoftUni\C-Sharp-Lekcii\201802-C#OOP\C# OOP Basics\DefiningClassesExercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.runtimeconfig.dev.json
+H:\05-PRogramirane-SoftUni\C-Sharp-Lekcii\201802-C#OOP\C# OOP Basics\DefiningClassesExercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.dll
+H:\05-PRogramirane-SoftUni\C-Sharp-Lekcii\201802-C#OOP\C# OOP Basics\DefiningClassesExercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.pdb
+H:\05-PRogramirane-SoftUni\C-Sharp-Lekcii\201802-C#OOP\C# OOP Basics\DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.csprojResolveAssemblyReference.cache
+H:\05-PRogramirane-SoftUni\C-Sharp-Lekcii\201802-C#OOP\C# OOP Basics\DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.csproj.CoreCompileInputs.cache
+H:\05-PRogramirane-SoftUni\C-Sharp-Lekcii\201802-C#OOP\C# OOP Basics\DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.AssemblyInfoInputs.cache
+H:\05-PRogramirane-SoftUni\C-Sharp-Lekcii\201802-C#OOP\C# OOP Basics\DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.AssemblyInfo.cs
+H:\05-PRogramirane-SoftUni\C-Sharp-Lekcii\201802-C#OOP\C# OOP Basics\DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.dll
+H:\05-PRogramirane-SoftUni\C-Sharp-Lekcii\201802-C#OOP\C# OOP Basics\DefiningClassesExercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.pdb

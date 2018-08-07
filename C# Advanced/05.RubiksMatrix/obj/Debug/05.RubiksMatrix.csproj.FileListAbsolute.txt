@@ -1,0 +1,7 @@
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\05.RubiksMatrix\bin\Debug\05.RubiksMatrix.exe.config
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\05.RubiksMatrix\bin\Debug\05.RubiksMatrix.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\05.RubiksMatrix\bin\Debug\05.RubiksMatrix.pdb
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\05.RubiksMatrix\obj\Debug\05.RubiksMatrix.csproj.CoreCompileInputs.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\05.RubiksMatrix\obj\Debug\05.RubiksMatrix.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\05.RubiksMatrix\obj\Debug\05.RubiksMatrix.pdb
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\05.RubiksMatrix\obj\Debug\05.RubiksMatrix.csprojResolveAssemblyReference.cache

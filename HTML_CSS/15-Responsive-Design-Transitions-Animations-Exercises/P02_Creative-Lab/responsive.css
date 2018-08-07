@@ -1,0 +1,92 @@
+@media screen and (max-width: 980px) {
+
+
+    body #wrapper > header h1 a{
+        flex-flow: column;
+    }
+
+    body #wrapper > header nav ul{
+        display: flex;
+        flex-flow: column;
+    }
+    body #wrapper > header nav ul li{
+        width: 100%;
+        margin: 10px;
+    }
+
+    body #wrapper > header h1 a span{
+        padding-top: unset;
+        padding-right: unset;
+        margin: auto;
+        padding-bottom: 25px;
+    }
+
+    body #wrapper > header h1 a img{
+        margin: auto;
+    }
+
+    body #wrapper > section{
+        width: 100%;
+    }
+    body #wrapper{
+        font-size: 25px;
+    }
+    body #wrapper > aside{
+        width: 100%;
+        flex-flow: row;
+    }
+    body #wrapper > aside div{
+        width: 50%;
+        height: 12em;
+    }
+    .news{
+        margin-left: 10px;
+    }
+}
+
+@media screen and (max-width: 639px) {
+    body{
+        background-size: cover;
+    }
+
+    body #wrapper > header h1 a{
+        flex-flow: column;
+    }
+
+    body #wrapper > header nav ul{
+        display: flex;
+        flex-flow: column;
+    }
+    body #wrapper > header nav ul li{
+        width: 100%;
+        margin: 10px;
+    }
+
+    body #wrapper > header h1 a span{
+        padding-top: unset;
+        padding-right: unset;
+        margin: auto;
+        padding-bottom: 25px;
+    }
+
+    body #wrapper > header h1 a img{
+        margin: auto;
+    }
+
+    body #wrapper > section{
+        width: 100%;
+    }
+    body #wrapper{
+        font-size: 25px;
+    }
+    body #wrapper > aside div{
+        width: 100%;
+    }
+    body #wrapper > aside {
+
+        flex-flow: row wrap
+    }
+    .news{
+        margin-left: 0;
+    }
+}

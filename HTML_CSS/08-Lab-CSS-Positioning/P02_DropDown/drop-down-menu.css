@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    font-family: Open, sans-serif ;
+    font-size: 22px;
+    background: #1d211e;
+    color: white;
+}
+
+nav{
+    background: #E67C1F;
+
+}
+
+ul{
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    padding: 17px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#web-design{
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-first, .dropdown-second{
+    display: none;
+    position: absolute;
+}
+.first-item, .second-item{
+    width: 100px;
+}
+#web-design:hover .dropdown-first{
+    display: block;
+    text-align: left;
+    background: #E67C1F;
+    margin-left: 50px;
+    margin-top: 17px;
+}
+
+#tutorials:hover .dropdown-second{
+    display: block;
+    text-align: left;
+    background: #E67C1F;
+    margin-left: 117px;
+    top: 120px;
+
+}
+
+.second-item:hover, .first-item:hover{
+    background: black;
+}
+

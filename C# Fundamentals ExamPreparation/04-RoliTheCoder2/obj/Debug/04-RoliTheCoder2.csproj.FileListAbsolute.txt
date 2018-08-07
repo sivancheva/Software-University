@@ -1,0 +1,5 @@
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-RoliTheCoder2\bin\Debug\04-RoliTheCoder2.exe.config
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-RoliTheCoder2\bin\Debug\04-RoliTheCoder2.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-RoliTheCoder2\bin\Debug\04-RoliTheCoder2.pdb
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-RoliTheCoder2\obj\Debug\04-RoliTheCoder2.exe
+C:\Users\Ship\Documents\Visual Studio 2017\Projects\Fundamentals\ExamProblems\CommandInterpreter\04-RoliTheCoder2\obj\Debug\04-RoliTheCoder2.pdb

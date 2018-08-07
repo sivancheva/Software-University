@@ -1,0 +1,7 @@
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe.config
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.pdb
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.csprojResolveAssemblyReference.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.csproj.CoreCompileInputs.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.pdb

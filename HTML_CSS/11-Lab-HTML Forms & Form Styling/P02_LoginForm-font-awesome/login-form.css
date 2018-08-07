@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:700|Open+Sans:400,700');
+@import url('https://use.fontawesome.com/releases/v5.0.13/css/all.css');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Open + Sans', sans-serif;
+    margin: auto;
+    text-align: center;
+    background-color: #927057;
+}
+
+.image-container img{
+    width: 12%;
+    border: 5px solid #D5C395;
+    margin-top: 30px;
+}
+main img{
+    position: relative;
+    top: 37px;
+}
+form{
+    background-color: #D5C395;
+    width: 35%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+
+.title h1{
+    color: white;
+    font-size: 19px;
+    padding-top: 30px;
+    padding-left: 7%;
+    text-align: left;
+}
+.inputs{
+    width: 90%;
+    margin: auto;
+}
+
+.inputs input{
+    position: relative;
+    width: 46%;
+    padding: 5px 39% 5px 10%;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+}
+
+i{
+    font-weight: 900;
+    font-size: 20px;
+    position: relative;
+    top: 34px;
+    z-index: 5;
+    right: 43%;
+    color: #927057;
+}
+
+.inputs input[type=submit]{
+    width: 95%;
+    color: #EFE1C4;
+    font-weight: bold;
+    background-color: #927057;
+    padding-left: 34%;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+footer{
+    color: #EFE1C4;
+    margin-top: 10px;
+    font-size: 10px;
+}

@@ -1,0 +1,6 @@
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.exe.config
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.pdb
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.csproj.CoreCompileInputs.cache
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.exe
+H:\VS_Solutions\C#Advanced\CSharpAdvanced\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.pdb

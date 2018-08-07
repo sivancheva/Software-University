@@ -1,0 +1,7 @@
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Exams\Avatar\AvatarNetFramework\AvatarNetFramework\bin\Debug\AvatarNetFramework.exe.config
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Exams\Avatar\AvatarNetFramework\AvatarNetFramework\bin\Debug\AvatarNetFramework.exe
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Exams\Avatar\AvatarNetFramework\AvatarNetFramework\bin\Debug\AvatarNetFramework.pdb
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Exams\Avatar\AvatarNetFramework\AvatarNetFramework\obj\Debug\AvatarNetFramework.csprojResolveAssemblyReference.cache
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Exams\Avatar\AvatarNetFramework\AvatarNetFramework\obj\Debug\AvatarNetFramework.csproj.CoreCompileInputs.cache
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Exams\Avatar\AvatarNetFramework\AvatarNetFramework\obj\Debug\AvatarNetFramework.exe
+H:\05-PRogramirane-SoftUni\Software University\C# OOP Basics\Exams\Avatar\AvatarNetFramework\AvatarNetFramework\obj\Debug\AvatarNetFramework.pdb

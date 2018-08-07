@@ -1,0 +1,103 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 70%;
+    font-size: 14px;
+    font-family:  Tahoma, Helvetica, sans-serif;
+    margin: auto;
+
+}
+nav{
+
+    background-color: #384452;
+    margin: 30px auto 0px auto;
+
+}
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #8BAEC2;
+    padding-left: 10px;
+}
+
+nav ul li a:before{
+    font-family: FontAwesome, serif;
+    margin-right:  10px;
+    font-size:  18px;
+}
+
+li:first-child a::before{
+    content: "\f002";
+}
+
+li:nth-child(2) a::before{
+    content: "\f02c";
+}
+
+li:nth-child(3) a::before{
+    content: "\f041";
+}
+li:nth-child(4) a::before{
+    content: '\f007';
+}
+
+nav ul li:hover{
+     background-color: #3BBC96;
+    cursor: pointer;
+
+ }
+nav ul li a:hover{
+      color: white;
+}
+
+main{
+    background: #EEEEEE;
+    padding-bottom: 20px;
+
+}
+div{
+    display: inline-block;
+    width: 20%;
+    margin-left: 4%;
+    margin-top: 20PX;
+}
+div input{
+    width: 80%;
+    margin: 30px 0px 0px 0px;
+    padding: 10px;
+    border: none;
+
+    font-size: 10px;
+}
+div label{
+    color: #384452;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+button{
+    position: relative;
+    bottom: 33px;
+    background: #384452;
+    text-align: center;
+    border: none;
+    padding: 10px 20px;
+    left: 33px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 10px;
+    box-shadow: 4px 4px 3px -3px rgba(46,42,46,1);
+}
+
+button:hover{
+    background: #3BBC96;
+    cursor: pointer;
+
+}
