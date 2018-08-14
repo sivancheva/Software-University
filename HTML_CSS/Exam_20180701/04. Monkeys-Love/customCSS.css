@@ -1,0 +1,132 @@
+
+body, html {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    text-align: center;
+}
+
+nav {
+    display: inline;
+    text-align: center;
+
+}
+
+nav a {
+    color: #F15E3E;
+    padding: 30px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+hr {
+    size: 2px;
+    height: 2px;
+    background-color: #F15E3E;
+    border: none;
+    width: 3%;
+    color: #F15E3E;
+    display: inline-block;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+.upperPartMain {
+    color: #B2ACAA;
+    background: url("img/header.png");
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.upperPartMain h1 {
+
+    padding-top: 40px;
+}
+
+.upperPartMain p {
+    width: 60%;
+    margin-top: 50px;
+    padding: 0% 20%;
+}
+
+.bottomPartMain {
+    color: #B2ACAA;
+    background-color: #F15E3E;
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.bottomPartMain h2 {
+    padding-top: 40px;
+}
+
+.bottomPartMain p {
+    width: 60%;
+    margin-top: 15px;
+    padding: 0% 20%;
+}
+
+.secondLine {
+    size: 2px;
+    height: 2px;
+    background-color: white;
+    border: none;
+    width: 3%;
+    color: white;
+    display: inline-block;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+main section {
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+
+}
+
+main section article {
+    padding: 0px 25px;
+}
+
+i {
+    font-size: 50px;
+    color: #F15E3E;
+}
+
+.monkeys {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 4px solid #F15E3E;
+    border-top: 4px solid #F15E3E;
+    margin-bottom: 40px;
+}
+
+.monkeys div img {
+    margin: 0;
+    padding: 0;
+    width: 90%;
+    border-left: 4px solid #F15E3E;
+    border-right: 4px solid #F15E3E;
+
+}

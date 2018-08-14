@@ -1,0 +1,92 @@
+
+body {
+    width: 100%;
+    background: linear-gradient(to right, #A2685B, #EFD8B8);
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+main {
+    width: 70%;
+    background-color: white;
+    display: inline-block;
+    margin: 30px;
+    border-radius: 15px;
+}
+
+.left img {
+    width: 50%;
+    float: left;
+}
+
+.right {
+    width: 40%;
+    float: left;
+    margin-left: 20px;
+
+}
+
+.right h1 {
+    font-size: 30px;
+}
+
+.contacts, .button {
+    font-size: 20px;
+    display: block;
+    width: 100%;
+    margin: 20px 0;
+    background-color: #E6E6E6;
+    border-radius: 20px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.button{
+    background-color: #906A53;
+    color: white;
+    font-size: 15px;
+    border: none;
+    text-align: center;
+    padding: 15px 0;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: #5E4736;
+}
+
+.contacts i {
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+h4{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+}
+.iAmHereFor li{
+    list-style-type: none;
+    text-align: left;
+    font-size: 15px;
+}
+.iAmHereFor li i{
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.forgot{
+    display: inline;
+}
+a{
+    color: black;
+}
+section a:last-of-type{
+    display: block;
+    margin-top: 30px;
+}
+
+section a:last-of-type::after{
+    content: '\2192';
+    text-decoration: none;
+
+}
