@@ -1,0 +1,101 @@
+@import url('https://use.fontawesome.com/releases/v5.0.13/css/all.css');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+header {
+    text-align: center;
+    background-color: #99CC32;
+    color: white;
+    padding: 30px 0;
+}
+
+header h1 {
+    font-size: 25px;
+}
+
+header p {
+    padding: 15px 0 0 0;
+}
+
+.contactInformation {
+
+    margin: 30px auto;
+    text-align: center;
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.contactInformation section {
+    width: 25%;
+    padding: 0px 10px;
+    color: gray;
+
+}
+
+.contactInformation h4 {
+    color: #99CC32;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.contactform {
+    margin: auto;
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+
+.contactform div{
+    margin: 0px 20px;
+    text-transform: uppercase;
+    color: gray;
+}
+
+.contactform div input{
+
+    margin: 10px 0;
+    padding: 5px;
+
+}
+
+i{
+    position: relative;
+    right: 25px;
+}
+
+small{
+    text-transform: none;
+
+}
+
+#map {
+    width: 40%;
+}
+
+#map img {
+    width: 100%;
+}
+.inputs{
+    height: 50%;
+}
+.text{
+    width: 60% ;
+    height: 50%;
+}
+
+
+
+
+
+
+

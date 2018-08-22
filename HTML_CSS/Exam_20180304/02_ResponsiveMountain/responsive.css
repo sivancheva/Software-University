@@ -1,0 +1,94 @@
+@media screen and (max-width: 480px) {
+    * {
+        margin: 0;
+        padding: 0;
+
+    }
+
+    .wrapper {
+        margin: auto;
+
+    }
+
+    .billboard {
+        text-align: center;
+        width: 100%;
+        padding-left: 0;
+        padding-top: 0;
+    }
+
+    .header-nav {
+        display: none;
+    }
+
+    .caption {
+        margin: auto;
+        text-align: center;
+        width: 80%;
+    }
+
+    .mountain-img {
+        height: 300px;
+        width: 100%;
+    }
+
+    .client {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .img-container img {
+        width: 100px;
+        margin-left: 0;
+    }
+
+    .client_details h4{
+        margin: 20px 0;
+    }
+
+    .client_details h5{
+        margin-bottom: 20px;
+    }
+    .clearfix {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .animated h2 {
+        width: 100%;
+        text-align: center;
+        font-size: 35px;
+    }
+
+    .animated p {
+        width: 74%;
+        text-align: center;
+        font-size: 15px;
+        margin: auto;
+        border-bottom: 5px dotted lightgray;
+        margin-bottom: 15px;
+    }
+
+    #last-clearfix > li {
+        border-top: 5px dotted gray;
+    }
+
+    #last-clearfix > li:nth-child(1) {
+        border-top: none;
+    }
+
+    .date {
+        margin-left: 20%;
+    }
+
+    .rights {
+        width: 80%;
+        margin: auto;
+        text-align: center;
+    }
+
+    footer nav {
+        display: none;
+    }
+}

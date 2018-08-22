@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    margin: auto;
+}
+
+body {
+    height: 100%;
+}
+
+form {
+    padding-top: 30px;
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+
+}
+
+.signIn {
+    padding-top: 30px;
+    margin-right: 0;
+    background-image: linear-gradient(rgba(17, 84, 140, .7), rgba(138, 50, 129, .7)),
+    url("img/peak.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    color: white;
+    text-align: center;
+}
+
+.signIn h1 {
+    font-weight: 900;
+    font-size: 40px;
+    padding-top: 9%
+}
+
+.signIn p {
+    padding-top: 322px;
+    font-size: 18px;
+}
+
+.signIn i {
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+form section {
+    height: 500px;
+    width: 40%;
+}
+
+.fa-times{
+    float: right;
+    padding-right: 30px;
+    font-size: 25px;
+    color: #892064;;
+}
+.inputFields {
+    padding-top: 30px;
+    text-align: left;
+    margin-left: 0;
+    padding-left: 70px;
+    border: 2px solid #892064;;
+
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
+.inputFields div {
+    padding-top: 20px;
+    font-size: 20px;
+    color: #a9a9a9;
+}
+
+.inputFields label input {
+    padding: 0px 0 15px 0;
+    border: none;
+    border-bottom: 1px solid #a9a9a9;
+    font-size: 20px;
+    color: black;
+    width: 80%;
+
+}
+
+button {
+    display: inline;
+    background: #892064;
+    color: white;
+    font-size: 25px;
+    padding: 8px;
+    border-radius: 20px;
+    margin-top: 50px;
+
+}
+
+.inputFields p:last-of-type{
+    display: inline;
+}
+
+.inputFields span{
+    color:  #892064;
+    font-size: 20px;
+    font-weight: bold;
+}
+

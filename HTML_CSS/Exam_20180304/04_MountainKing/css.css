@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+body, html{
+    height: 100%;
+}
+
+header {
+
+    /*background: linear-gradient(rgba(30, 26, 46, 0.4), rgba(30, 26, 46, 0.4)), url("img/background-header.jpg");*/
+    background: url("img/background-header.jpg");
+    height: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+header img {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+#beforeHeader {
+    padding-top: 200px;
+    font-weight: 200;
+    font-size: 37px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+header p:nth-of-type(2) {
+    font-size: 24px;
+    font-style: italic;
+    width: 70%;
+    margin: auto;
+    padding-top: 30px;
+    text-shadow: 2px 2px 2px rgba(255, 255, 255, 1);
+}
+
+button:first-of-type{
+    margin-top: 100px;
+    margin-right: 10px;
+    padding: 13px;
+    color: white;
+    background-color: rgb(51, 46, 98);
+    border-radius: 18px;
+    font-size: 25px;
+    border: none;
+}
+
+button:last-of-type{
+    margin-top: 100px;
+    margin-right: 10px;
+    padding: 13px;
+    color: white;
+    background-color: #F42257;
+    border-radius: 18px;
+    font-size: 25px;
+    border: none;
+}
+
+main section{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-between;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.mainArticle {
+ padding: 0% 20px;
+}
+
+.mainArticle i{
+    border-radius: 50%;
+    font-size: 50px;
+    border: 3px solid #C17F3F;
+    color: #C17F3F;
+    padding: 30px;
+}
+
+.mainArticle h3{
+    font-size: 30px;
+    font-weight: 900;
+    padding: 20px 0;
+}
+
+.mainArticle p{
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+main section:last-of-type{
+    background: url("img/moon.jpg");
+    height: 450px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.clients{
+
+    width: 30%;
+    border: 2px solid #C17F3F;
+    text-align: center;
+    margin-left: 30px;
+    background: black;
+    color: white;
+    padding: 21px 58px;
+    background: rgba(41, 51, 62, 0.3);
+}
+
+.clients h3{
+    font-size: 2em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#firstP{
+    padding: 30px;
+    font-style: italic;
+    font-size: 0.8em;
+    margin-bottom: 20px;
+}
+
+#secondP{
+    font-size: 0.8em;
+}
+
+.clients div{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.oldNewClients {
+    text-align: center;
+    margin: auto;
+    border-radius: 50%;
+    background-image: linear-gradient(to right, #FFAB51 , #FFE058);
+    font-size: 0.9em;
+    color: black;
+    font-weight: bold;
+    padding: 19px;
+    width: 80px;
+    height: 80px;
+    line-height: 69px;
+}
+
+
+footer{
+    background-color: black;
+    height: 60px;
+    color: white;
+    font-size: 15px;
+    padding-left: 30px;
+    padding-top: 33px;
+}
+
+footer span{
+    color: #C17F3F;
+    font-weight: bold;
+    text-transform: uppercase;
+}
