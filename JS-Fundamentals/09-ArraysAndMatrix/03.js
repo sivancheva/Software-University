@@ -17,14 +17,9 @@ function addRemoveElementsFromArr(input) {
                 break;
         }
     }
-
-    if (arr.length === 0) {
-        console.log("Empty");
-    } else {
-        console.log(arr.join("\n"));
-    }
+    arr.length === 0 ? console.log("Empty") : console.log(arr.join("\n"));
 }
 
-//addRemoveElementsFromArr(["add","add","add","add"]);
+addRemoveElementsFromArr(["add","add","add","add"]);
 //addRemoveElementsFromArr(["add","add","remove","add","add"]);
 addRemoveElementsFromArr(["remove", "remove", "remove"]);

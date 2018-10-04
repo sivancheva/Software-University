@@ -4,10 +4,8 @@ function sortArray(input){
 
     result.sort(function(a, b) {
         return a.length-b.length || a.toLowerCase().localeCompare(b.toLowerCase());
-    })
-
+    });
     console.log(result.join("\n"));
-
 }
 
 //sortArray(["alpha","beta","gamma"]);

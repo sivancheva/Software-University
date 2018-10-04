@@ -3,7 +3,7 @@ function solve(input){
     let num = input;
     while(true){
         let average = calcAverage(num);
-        if(average >= 5){
+        if(average > 5){
             console.log(num);
             return;
         }else{
@@ -12,12 +12,11 @@ function solve(input){
     }
     function calcAverage(number) {
         let sum = 0;
-        let length = number.length;
         for (let i = 0; i < number.length; i++) {
-            sum += Number(number[i]);
+            sum += +number[i];
         }
-        return sum/length;
+        return sum/number.length;
     }
 }
 
-solve("5835");
+solve("101");

@@ -1,10 +1,8 @@
 function printEveryNthElement(input) {
-    let step = Number(input[input.length-1]);
-    let arr = input;
-    arr.pop();
+    let step = +input.pop();
 
-    for (let i = 0; i < arr.length ; i+=step) {
-        console.log(arr[i]);
+    for (let i = 0; i < input.length ; i+=step) {
+        console.log(input[i]);
     }
 }
 
